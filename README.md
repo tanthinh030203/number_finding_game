@@ -1,18 +1,18 @@
-# TRÒ CHƠI TÌM SỐ [Demo](https://youtu.be/KDLBvzmWwRU)
+# TRÒ CHƠI TÌM SỐ [ [Demo](https://youtu.be/KDLBvzmWwRU) ]
 
 
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
-![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
-![Language](https://img.shields.io/badge/Môn-LTM-orange.svg)
+![Language](https://img.shields.io/badge/Team-Huflit-orange.svg)
+![Language](https://img.shields.io/badge/Môn-LapTrinhMang-orange.svg)
 ![Language](https://img.shields.io/badge/Type-Game-orange.svg)
 
 ## Team
-| Họ và Tên  |
-| ----- | ----- |
-| Nguyễn Trọng Tài| 
-| Lê Nguyễn Tấn Thịnh| 
-| Trần Trung Hiếu |
+| Họ và Tên  |<br>
+| ----- | ----- |<br>
+| Nguyễn Trọng Tài| <br>
+| Lê Nguyễn Tấn Thịnh| <br>
+| Trần Trung Hiếu |<br>
 
 # Yêu cầu về chức năng phía client (phải có GUI):
 - Cách chơi: SV xem hình minh họa ở trên, game mô phỏng lại trò chơi tìm số trên giấy, các số cần tìm không cần theo thứ tự tăng dần mà theo thứ tự chương trình đưa ra.<br>
