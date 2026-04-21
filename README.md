@@ -1,8 +1,6 @@
-# TRÒ CHƠI TÌM SỐ [Document](https://github.com/HiamKaito/NUMBER_FINDING_GAME/blob/main/NUMBER_FINDING_GAME/Document/README.md) || [Demo](https://youtu.be/KDLBvzmWwRU)
+# TRÒ CHƠI TÌM SỐ [Document] || [Demo](https://youtu.be/KDLBvzmWwRU)
 
-## Tái sử dụng code từ: [Shoe Shop](https://github.com/HiamKaito/Shop_Manager_System), [SQL Java](https://github.com/HiamKaito/Ket-Noi-SQL-JAVA), [TicTacToe - LAN](https://github.com/HiamKaito/TicTacToe)
 
-## Chạy file : [Client](https://github.com/HiamKaito/NUMBER_FINDING_GAME/blob/main/NUMBER_FINDING_GAME/src/main/java/com/client/number_finding_game/LoginForm.java) và [Server](https://github.com/HiamKaito/NUMBER_FINDING_GAME/blob/main/NUMBER_FINDING_GAME/src/main/java/com/server/number_finding_game/ServerManager.java)
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
@@ -10,11 +8,11 @@
 ![Language](https://img.shields.io/badge/Type-Game-orange.svg)
 
 ## Team
-| Họ và Tên  | Link |
+| Họ và Tên  |
 | ----- | ----- |
-| Nguyễn Tuấn Anh | [FB](https://www.facebook.com/ProHZGOD) |
-| Tăng Chí Chung | [FB](https://www.facebook.com/hiamkaito.404/) |
-| Nguyễn Ngọc Tiến Em | [FB](https://www.facebook.com/nguyenngoctienem.nguyen) |
+| Nguyễn Trọng Tài| 
+| Lê Nguyễn Tấn Thịnh| 
+| Trần Trung Hiếu |
 
 # Yêu cầu về chức năng phía client (phải có GUI):
 - Cách chơi: SV xem hình minh họa ở trên, game mô phỏng lại trò chơi tìm số trên giấy, các số cần tìm không cần theo thứ tự tăng dần mà theo thứ tự chương trình đưa ra.<br>
