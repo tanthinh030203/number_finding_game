@@ -1,4 +1,4 @@
-# TRÒ CHƠI TÌM SỐ [Document] || [Demo](https://youtu.be/KDLBvzmWwRU)
+# TRÒ CHƠI TÌM SỐ [Demo](https://youtu.be/KDLBvzmWwRU)
 
 
 
